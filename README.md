@@ -32,7 +32,7 @@ Usage
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/your-username/tts-model-latency-tester.git
+git clone https://github.com/betoxf/tts-model-latency-tester.git
 cd tts-model-latency-tester
 Ensure you have installed all the prerequisites and Python packages.
 
@@ -154,3 +154,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 
 For questions or suggestions, please contact betoxf18@gmail.com
+
+
+
